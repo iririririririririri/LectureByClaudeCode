@@ -1,0 +1,3 @@
+# レクチャー元資料は汎用置き場なのでバージョン管理しない
+materials/*
+!materials/.gitkeep
