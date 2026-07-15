@@ -1,0 +1,2 @@
+# LectureByClaudeCode
+ClaudeCodeにレクチャーしてもらうためのワークスペース
